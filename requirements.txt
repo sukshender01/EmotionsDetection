@@ -3,5 +3,5 @@ numpy
 opencv-python-headless
 pillow
 gdown
-keras
-tensorflow
+tensorflow==2.11.0
+keras==2.11.0
