@@ -7,6 +7,7 @@ import gdown
 from keras.models import load_model
 from keras.preprocessing.image import img_to_array
 
+
 MODEL_PATH = "emotion_model.h5"
 MODEL_URL = "https://drive.google.com/uc?id=1aH3MFMHrEuUUFH0XZmiR09eOhkFYXQIU"  # Replace with your own
 
